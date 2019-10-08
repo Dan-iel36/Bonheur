@@ -1,0 +1,131 @@
+html {
+	background-color: seashell;
+	/*display: flex;*/
+	/*font-family: ubuntu;*/
+}
+
+body {
+	background-color: papayawhip;
+	/*border: solid;*/
+	border-radius: 50px;
+	font-family: ubuntu;
+	font-size: 20px;
+	margin: 20px 40Px;
+	padding: 20px 40px;
+}
+
+h1 {
+	background-color: salmon;
+	/*border: dashed;*/
+	border-radius: 15px;
+	color: rosybrown;
+	padding: 20px 400px;
+}
+
+p.head {
+	background-color: plum;
+	/*border: double;*/
+	border-radius: 10px;
+	color: powderblue;
+	padding: 10px;
+}
+
+
+div.frame {
+	background-color: palegoldenrod;
+	/*border: solid;*/
+	border-radius: 15px;
+	display: flex;
+	font-family: duthya;
+	font-size: 20px;
+	justify-content: space-between;
+	margin: 20px;
+	padding: 20px 40px;
+}
+
+img.image {
+	background-color: mistyrose;
+	/*border: solid;*/
+	height: 400px;
+	margin: 20px;
+	width: 400px;
+}
+
+p.never {
+	background-color: palegreen;
+	/*border: solid;*/
+	border-radius: 15px;
+	color: orchid;
+	height: 120px;
+	margin: 20px;
+	padding: 5px;
+	width: 300px;
+}
+
+button {
+	align-content: center;
+	background-color: oldlace;
+	border-radius: 20px;
+	color: red;
+	display: flex;
+	font-family: chilanka;
+	font-size: 20px;
+	font-weight: bolder;
+	justify-content: center;
+	margin: 20px;
+}
+
+input {
+	border-radius: 10px;
+	background-color: mintcream;
+	color: green;
+	font-family: chilanka;
+	font-size: 20px;
+	font-weight: bolder;
+	padding: 10px;
+}
+
+form {
+	background-color: cornsilk;
+	/*border: solid;*/
+	border-radius: 10px;
+	color: burlywood;
+	margin: 20px;
+	padding: 20px;
+}
+
+div#answer {
+	background-color: lightyellow;
+	/*border: solid;*/
+	border-radius: 20px;
+	color: mediumvioletred;
+	font-family: futura;
+	font-size: 20px;
+	font-weight: bolder;
+	height: 60px;
+	margin: 5px;
+	padding: 5px 15px;
+	width: 345px;
+}
+
+section.box {
+	align-content: center;
+	background-color: linen;
+	/*border: solid;*/
+	border-radius: 10px;
+	display: flex;
+	justify-content: space-around;
+	margin: 20px;
+	padding: 20px;
+}
+
+footer {
+	align-content: space-around;
+	background-color: aliceblue;
+	/*border: dashed;*/
+	border-radius: 10px;
+	color: teal;
+	justify-content: space-around;
+	margin: 20px;
+	padding: 20px;
+}
